@@ -86,9 +86,9 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-fonts:
-  - family: TH-Chara
-    fonts:
+  fonts:
+    - family: TH-Chara
+      fonts:
       - asset: fonts/TH-Chara ver 2.00.ttf
 
   #- asset: assets/fonts/TH-Chara ver 2.00.ttf
